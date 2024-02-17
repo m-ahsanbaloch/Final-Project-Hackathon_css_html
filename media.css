@@ -6,15 +6,7 @@
     display: none !important;
 }
 }
-@media only screen and (max-width: 768px) {
-    /* .footer{
-        margin-top: 10px;
-        background: rgb(182, 125, 2) !important;
-        background: linear-gradient(
-          90deg,
-          rgba(182, 125, 2, 1) 0%,
-          rgba(252, 175, 7, 1) 50%,
-          rgba(182, 125, 2, 1) 100%
-        ) !important;
-    }
+/* @media only screen and (max-width: 768px) 
+{
+ 
 } */
