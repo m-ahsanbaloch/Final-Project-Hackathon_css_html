@@ -76,6 +76,9 @@
     rgba(182, 125, 2, 1) 100%
   );
 }
+.sld-hdn{
+  margin-left: 30px;
+}
 
 .left {
   display: flex;

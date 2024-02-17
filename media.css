@@ -7,7 +7,7 @@
 }
 }
 @media only screen and (max-width: 768px) {
-    .footer{
+    /* .footer{
         margin-top: 10px;
         background: rgb(182, 125, 2) !important;
         background: linear-gradient(
@@ -17,4 +17,4 @@
           rgba(182, 125, 2, 1) 100%
         ) !important;
     }
-}
+} */
