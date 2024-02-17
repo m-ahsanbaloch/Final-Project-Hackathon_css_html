@@ -121,7 +121,12 @@
   margin-left: 20px;
   background-color: #fef1e9;
   padding: 0px 20px;
-  border-radius: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.4s ease;
+}
+.deliver-btn:hover{
+  background-color: #f9e0d0;
   cursor: pointer;
 }
 .deliver-btn p {
@@ -163,6 +168,11 @@
   background-color: #f17228 !important;
   color: #fff !important;
   cursor: pointer;
+  transition: 0.4s ease;
+}
+#basic-addon2:hover{
+  background-color: #ae4407 !important;
+
 }
 
 .end {
@@ -178,4 +188,15 @@
 }
 .cards{
   margin-top: 10px;
+}
+.form-control:focus {
+  color: var(--bs-body-color);
+  background-color: var(--bs-body-bg);
+  border: none !important;
+  border-color: #191818 !important;
+  outline: none !important;
+  box-shadow: 0 0 0 0.02rem rgba(152, 153, 154, 0.44);
+}
+.input-group-text{
+  border: 1px solid rgba(152, 153, 154, 0.44);
 }
